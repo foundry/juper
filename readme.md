@@ -1,0 +1,1 @@
+[install juper build](a href="itms-services://?action=download-manifest&url=ftp://distro@juper.me:distro@juper.me//130618/juper_e.plist")

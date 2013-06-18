@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.github.com/foundry/juper/master/builds/juper_e.ipa</string>
+					<string>ftp://distro@juper.me:distro@juper.me//130618/juper_e.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
